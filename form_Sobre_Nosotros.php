@@ -86,8 +86,7 @@
 
     <form action="">
         <textarea class="form-control" name="" id="" cols="30" rows="10"></textarea>
-        <input type="text" class="muestra">
-        <input type="submit" value="Modificar" class="btn">
+              <input type="submit" value="Modificar" class="btn">
     </form>
 
 
